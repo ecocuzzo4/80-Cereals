@@ -1,12 +1,12 @@
 # 80 Cereals
-## By Emilee Cocuzzo
+### By Emilee Cocuzzo
 
-# About the Dataset
+## About the Dataset
 
-## Context
+### Context
 If you like to eat cereal, do yourself a favor and avoid this dataset at all costs. After seeing these data it will never be the same for me to eat Fruity Pebbles again.
 
-## Content
+### Content
 Fields in the dataset:
 
 Name: Name of cereal
@@ -35,5 +35,5 @@ weight: weight in ounces of one serving
 cups: number of cups in one serving
 rating: a rating of the cereals (Possibly from Consumer Reports?)
 
-## Source
+### Source
 You can find the original dataset here: https://www.kaggle.com/crawford/80-cereals
