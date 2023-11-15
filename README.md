@@ -12,55 +12,55 @@ If you like to eat cereal, do yourself a favor and avoid this dataset at all cos
 ### Content
 Fields in the dataset:
 
-Name: Name of cereal
+### Name: Name of cereal
 
-mfr: Manufacturer of cereal
+###mfr: Manufacturer of cereal
 
-A = American Home Food Products;
+*A = American Home Food Products;
 
-G = General Mills
+*G = General Mills
 
-K = Kelloggs
+*K = Kelloggs
 
-N = Nabisco
+*N = Nabisco
 
-P = Post
+*P = Post
 
-Q = Quaker Oats
+*Q = Quaker Oats
 
-R = Ralston Purina
+*R = Ralston Purina
 
-type:
+###type:
 
-cold
+*cold
 
-hot
+*hot
 
-calories: calories per serving
+*calories: calories per serving
 
-protein: grams of protein
+*protein: grams of protein
 
-fat: grams of fat
+*fat: grams of fat
 
-sodium: milligrams of sodium
+*sodium: milligrams of sodium
 
-fiber: grams of dietary fiber
+*fiber: grams of dietary fiber
 
-carbo: grams of complex carbohydrates
+*carbo: grams of complex carbohydrates
 
-sugars: grams of sugars
+*sugars: grams of sugars
 
-potass: milligrams of potassium
+*potass: milligrams of potassium
 
-vitamins: vitamins and minerals - 0, 25, or 100, indicating the typical percentage of FDA recommended
+*vitamins: vitamins and minerals - 0, 25, or 100, indicating the typical percentage of FDA recommended
 
-shelf: display shelf (1, 2, or 3, counting from the floor)
+*shelf: display shelf (1, 2, or 3, counting from the floor)
 
-weight: weight in ounces of one serving
+*weight: weight in ounces of one serving
 
-cups: number of cups in one serving
+*cups: number of cups in one serving
 
-rating: a rating of the cereals
+*rating: a rating of the cereals
 
 ### Source
 ##### You can find the original dataset here: https://www.kaggle.com/crawford/80-cereals
