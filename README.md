@@ -2,7 +2,7 @@
 
 This is for a practice session using Python. 
 
-By Emilee Cocuzzo
+By: Emilee Cocuzzo
 
 ## About the Dataset
 
