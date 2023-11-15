@@ -1,5 +1,8 @@
 # 80 Cereals
-### By Emilee Cocuzzo
+
+This is for a practice session using Python. 
+
+By Emilee Cocuzzo
 
 ## About the Dataset
 
