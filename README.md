@@ -2,6 +2,10 @@
 
 This is for a practice session using Python. 
 
+Solutions are provided to each questions.
+
+Give it a try!
+
 By: Emilee Cocuzzo
 
 ## About the Dataset
