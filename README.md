@@ -4,7 +4,7 @@ This is for a practice session using Python.
 
 Solutions are provided to each questions.
 
-Give it a try!
+Give it a try! Reach out if you have any questions!
 
 By: Emilee Cocuzzo
 
